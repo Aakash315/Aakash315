@@ -1,17 +1,37 @@
-<h1>
-  Hello, nice to see you.
-</h1>
+# Hi there, I'm Aakash 👋
 
-<p>I'm <b>Aakash Jaiswal</b>, Web Developer from <b>Mumbai, Maharashtra, India</b>. </p>
+I'm a passionate software developer with a keen interest in web development, and open-source contributions.
 
-[Email](mailto:jaiswalaakash315@gmail.com?subject=%5BGitHub%5D%20%F0%9F%94%A5Contact&body=Hello%20Aakash%2C%0D%0A%0D%0AI've%20seen%20your%20Github%20Profile%2C%20I%20want%20to) | [LinkedIn](https://linkedin.com/in/Aakash) | [Twitter](https://twitter.com/AakashJais82248)
+## 🚀 About Me
 
-<!-- Talking about you -->
-## 📃 Status
-- 👨🏻‍💻 I'm currently working on [Countries State Cities DB](https://github.com/dr5hn/countries-states-cities-database)
-- 🌱 I'm currently learning Laravel
-- 💬 Ask me about anything, I am happy to help
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m currently learning advanced concepts in Laravel.
+- 👯 I’m looking to collaborate on web development.
+- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
-<!--
-**dr5hn/dr5hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## 🛠️ Languages and Tools
+
+- **Languages:** PHP, JavaScript
+- **Frameworks:** Laravel
+- **Tools:** Git, VS Code
+
+## 📈 GitHub Stats
+
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash315&show_icons=true&theme=dark)
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/aakash315)
+- [Twitter](https://twitter.com/aakash315)
+- [Personal Blog](https://aakash315.github.io)
+
+## 📂 Projects
+
+Here are a few projects I've worked on:
+
+- [Project 1](https://github.com/dr5hn/csc-update-tool): A web application that makes Countries states cities db updates easier.
+
+Feel free to check out my repositories and leave a star if you find something interesting!
+
+Thanks for visiting my profile!
