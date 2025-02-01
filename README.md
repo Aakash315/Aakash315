@@ -7,7 +7,7 @@ I'm a passionate software developer with a keen interest in web development, and
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m currently learning advanced concepts in Laravel.
 - 👯 I’m looking to collaborate on web development.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [jaiswalaakash315@gmail.com](mailto:jaiswalaakash315@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🛠️ Languages and Tools
