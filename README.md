@@ -12,8 +12,8 @@ I'm a passionate software developer with a keen interest in web development, and
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** PHP, JavaScript
-- **Frameworks:** Laravel
+- **Languages:** PHP, JavaScript, Python
+- **Frameworks:** Laravel, Django
 - **Tools:** Git, VS Code
 
 ## 📈 GitHub Stats
