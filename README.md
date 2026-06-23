@@ -5,7 +5,7 @@ I'm a passionate software developer with a keen interest in web development, and
 ## 🚀 About Me
 
 - 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m currently learning advanced concepts in Laravel.
+- 🌱 I’m currently learning advanced concepts in Python.
 - 👯 I’m looking to collaborate on web development.
 - 📫 How to reach me: [jaiswalaakash315@gmail.com](mailto:jaiswalaakash315@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
@@ -13,7 +13,7 @@ I'm a passionate software developer with a keen interest in web development, and
 ## 🛠️ Languages and Tools
 
 - **Languages:** PHP, JavaScript, Python
-- **Frameworks:** Laravel, Django
+- **Frameworks:** Laravel, Django, Flask, FastAPI
 - **Tools:** Git, VS Code
 
 ## 📈 GitHub Stats
