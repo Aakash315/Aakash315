@@ -13,7 +13,7 @@ I'm a passionate software developer with a keen interest in web development, and
 ## 🛠️ Languages and Tools
 
 - **Languages:** Python, React, NextJS, JavaScript
-- **Frameworks:** Django, Flask, FastAPI
+- **Frameworks:** Django, Flask, FastAPI, Django Rest Framework
 - **Tools:** Git, VS Code
 
 ## 📈 GitHub Stats
